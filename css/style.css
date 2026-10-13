@@ -223,7 +223,7 @@ a {
   }
 
   .con02-imgbox {
-    width: 1800px;
+    width: 100%;
     margin: 0px auto;
     position: relative;
     transform: translateY(50px);
@@ -428,7 +428,7 @@ a {
   }
 
   #con04 {
-    width: 1800px;
+    width: 1400px;
     margin: 100px auto;
   }
 
