@@ -829,37 +829,37 @@ a {
   }
 
   .con02-imgbox i {
-    font-size: 50px;
+    font-size: 40px;
   }
 
   .con02-imgbox p:nth-of-type(1) {
     margin-top: 20px;
-    font-size: 30px;
+    font-size: 20px;
     font-weight: bold;
   }
 
   .con02-imgbox p:nth-of-type(2) {
-    font-size: 120px;
+    font-size: 90px;
     font-weight: bold;
   }
 
   .con02-imgbox .li01 p:nth-of-type(2)::after {
     content: "명";
-    font-size: 40px;
+    font-size: 25px;
     color: #fff;
     font-weight: bold;
   }
 
   .con02-imgbox .li02 p:nth-of-type(2)::after {
     content: "년";
-    font-size: 40px;
+    font-size: 25px;
     color: #fff;
     font-weight: bold;
   }
 
   .con02-imgbox .li03 p:nth-of-type(2)::after {
     content: "개국";
-    font-size: 40px;
+    font-size: 25px;
     color: #fff;
     font-weight: bold;
   }
@@ -1213,7 +1213,7 @@ a {
 
   footer .left .callbox {
     width: 200px;
-    margin: 0px auto;
+    margin: 10px auto;
     padding: 10px 0px;
     color: #fff;
     background-color: #000;
@@ -1222,7 +1222,6 @@ a {
     align-items: center;
     gap: 20px;
     cursor: pointer;
-    margin: 30px 0px 10px 0px;
   }
 
   footer .right > p:nth-of-type(2) {
@@ -1839,7 +1838,7 @@ a {
     align-items: center;
     gap: 20px;
     cursor: pointer;
-    margin: 30px 0px 10px 0px;
+    margin: 20px 0px 20px 0px;
   }
 
   footer .right > p:nth-of-type(2) {
